@@ -3,6 +3,8 @@ package gitstudy;
 public class Test3 {
     String x;
     String sdf;
-    String dfsdf;
-    //sdsa
+
+//    String dfsdf;
+String sdfsd;
+
 }
