@@ -8,5 +8,6 @@ public class Test3 {
 String sdfsd;
 String branchtodelete;
 String branchtoadd;
-String branchtoaddmaster;
+String branchtoadd1;
+String branchtoadd2;
 }
